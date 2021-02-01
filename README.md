@@ -1,2 +1,1 @@
-# person.js
-# git-basic-exercise
+# git_basic_exercises
